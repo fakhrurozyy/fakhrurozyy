@@ -30,12 +30,12 @@ A Telegram bot for recording and managing personal finances using Python and Sup
 
 ### Experience
 
-QA Engineer Intern — Wesclic Technology**
+QA Engineer Intern — Wesclic Technology
 April 2025 – July 2025
 
 Worked on manual testing, test case creation, bug reporting, and checking application interfaces against design specifications.
 
-Creative Content Intern — Dinas Pariwisata Kota Yogyakarta**
+Creative Content Intern — Dinas Pariwisata Kota Yogyakarta
 October 2022 – January 2023
 
 Worked on promotional content and supported marketing and creative activities.
