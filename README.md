@@ -28,7 +28,7 @@ A simple website for generating conversation topics.
 **Bot Catat Keuangan**
 A Telegram bot for recording income and expenses.
 
-🔗 [Live Demo]((https://t.me/catatkeuangan_fakhru_bot))
+🔗 [Use the bot on Telegram](https://t.me/catatkeuangan_fakhru_bot)
 
 
 ### Experience
