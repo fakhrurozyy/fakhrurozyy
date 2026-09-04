@@ -26,7 +26,10 @@ A simple website for generating conversation topics.
 🔗 [Live Demo](https://fakhrurozyy.github.io/obrolan-tongkrongan-genz/)
 
 **Bot Catat Keuangan**
-A Telegram bot for recording income and expenses using Google Sheets.
+A Telegram bot for recording income and expenses.
+
+🔗 [Live Demo]((https://t.me/catatkeuangan_fakhru_bot))
+
 
 ### Experience
 
