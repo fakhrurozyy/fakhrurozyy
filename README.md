@@ -1,11 +1,9 @@
-# fakhrurozyy
-
 # Hi, I'm Fakhru Rozy 👋
 
 🎓 Informatics Graduate from Universitas Ahmad Dahlan
-💻 Interested in Software Quality Assurance and Web Development
+💻 Interested in Software Quality Assurance, Web Development, and Technology
 
-I'm a fresh graduate who enjoys learning new things, working with technology, and building small projects to improve my skills.
+I'm an Informatics graduate who enjoys exploring technology, learning new things, and building projects to improve my skills.
 
 ### Skills
 
@@ -20,25 +18,24 @@ I'm a fresh graduate who enjoys learning new things, working with technology, an
 
 ### Projects
 
-**Obrolan Tongkrongan Gen Z**
-A simple website for generating conversation topics.
+Obrolan Tongkrongan Gen Z
+A simple website that generates conversation topics for casual hangouts.
 
 🔗 [Live Demo](https://fakhrurozyy.github.io/obrolan-tongkrongan-genz/)
 
-**Bot Catat Keuangan**
-A Telegram bot for recording income and expenses.
+Catat Keuangan Bot
+A Telegram bot for recording and managing personal finances using Python and Supabase.
 
 🔗 [Use the bot on Telegram](https://t.me/catatkeuangan_fakhru_bot)
 
-
 ### Experience
 
-**QA Engineer Intern — Wesclic Technology**
+QA Engineer Intern — Wesclic Technology**
 April 2025 – July 2025
 
-Worked on manual testing, test cases, bug reporting, and checking application interfaces against design.
+Worked on manual testing, test case creation, bug reporting, and checking application interfaces against design specifications.
 
-**Creative Content Intern — Dinas Pariwisata Kota Yogyakarta**
+Creative Content Intern — Dinas Pariwisata Kota Yogyakarta**
 October 2022 – January 2023
 
 Worked on promotional content and supported marketing and creative activities.
